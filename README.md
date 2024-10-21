@@ -25,7 +25,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 
 <div align="left">
-      <h1 align="left">Hi there 👋, I'm Ansh Sharma</h1>
+      <h1 align="left">Hi 👋, I'm Ansh Sharma</h1>
       <p >AIML and Full-stack developer</p>
       <br/>
       <h3>💫 About Me</h3>
