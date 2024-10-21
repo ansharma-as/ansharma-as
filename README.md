@@ -1,4 +1,4 @@
-<table style="width: 100%; border: none;">
+<!--- <table style="width: 100%; border: none;">
   <tr>
     <td style="vertical-align: middle; width: 60%; text-align: center;">
       <h1 style="font-family: 'Arial', sans-serif;">Hi there 👋, I'm Ansh Sharma</h1>
@@ -20,8 +20,21 @@
     </td>
   </tr>
 </table>
+-->
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 
+<div align="left">
+      <h1 align="left">Hi there 👋, I'm Ansh Sharma</h1>
+      <p >AIML and Full-stack developer</p>
+      <br/>
+      <h3>💫 About Me</h3>
+      <p>🔭 I’m currently working on React, Express, Next.js Projects.<br>🌱 I’m currently learning Deep Learning and GenAI.<br>
+</p>
+      <br/>
+      <br/>
+      <h4  style="font-family: 'Arial', sans-serif;">Contact: anshsharma712.as@gmail.com</h4>
+    </div>
 
 
 ## 🌐 Socials:
@@ -35,16 +48,15 @@
 <br/>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ansharma-as&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="600"> 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ansharma-as&theme=nightowl&hide_border=true" width="300">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharma-as&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="300">
 
-<br/>
+
+
+<br>
+</br>
 
 
  
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ansharma-as&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  
