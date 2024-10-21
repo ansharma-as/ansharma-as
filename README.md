@@ -49,9 +49,9 @@
 
 
 ## 📊 GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ansharma-as&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="600"> 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ansharma-as&theme=nightowl&hide_border=true" width="300">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharma-as&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="300">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ansharma-as&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="500"> 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ansharma-as&theme=nightowl&hide_border=true" width="200">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansharma-as&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="200">
 
 
 
