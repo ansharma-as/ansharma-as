@@ -33,7 +33,7 @@
 </p>
       <br/>
       <br/>
-      <h4  style="font-family: 'Arial', sans-serif;">Contact: anshsharma712.as@gmail.com</h4>
+      <h4> <a href="mailto:anshsharma712.as@gmail.com">Contact: anshsharma712.as@gmail.com </a></h4>
     </div>
 
 
