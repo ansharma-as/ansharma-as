@@ -26,7 +26,7 @@
 
 <div align="left">
       <h1 align="left">Hi 👋, I'm Ansh Sharma</h1>
-      <p >AIML and Full-stack developer</p>
+      <p AIML | Full-Stack | DevOps | Learner | Times of India, Bennett Univ./ </p>
       <br/>
       <h3>💫 About Me</h3>
       <p>🔭 I’m currently working on React, Express, Next.js Projects.<br>🌱 I’m currently learning Deep Learning and GenAI.<br>
