@@ -19,7 +19,6 @@
   "currently_working_on": ["React", "Express", "Next.js"],
   "currently_learning": ["Deep Learning", "GenAI", "LLMOps"],
   "reach_me": "anshsharma712.as@gmail.com",
-  "fun_fact": "I debug with console.log and I'm not ashamed 😄"
 }
 ```
 
