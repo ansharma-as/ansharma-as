@@ -40,10 +40,6 @@
     <td>📫 Reach me</td>
     <td><a href="mailto:anshsharma712.as@gmail.com">anshsharma712.as@gmail.com</a></td>
   </tr>
-  <tr>
-    <td>⚡ Fun fact</td>
-    <td>I turn caffeine into code ☕→💻</td>
-  </tr>
 </table>
 
 ---
