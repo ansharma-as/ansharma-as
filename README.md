@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ansh%20Sharma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20%7C%20GenAI%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ansh%20Sharma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full-Stack+Developer;Building+the+future%2C+one+commit+at+a+time+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,12 +70,6 @@
 
 ##  Products
 
-<div align="center">
-
-<a href="https://askly.co.in"><img src="https://img.shields.io/badge/Askly-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://rankrocket.co.in"><img src="https://img.shields.io/badge/RankRocket-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-</div>
 
 | Product |  | Link |
 |---|---|---|
@@ -145,12 +139,6 @@
 
 ## GitHub Stats
 
-
-<br/>
-
-<sub>
-Self-generated via GitHub Actions and committed to this repository.
-</sub>
 
 
 <!-- Contribution Streak -->
