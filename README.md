@@ -10,14 +10,14 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 ```json
 {
   "name": "Ansh Sharma",
   "role": "AI Engineer",
   "experience": "2+ years",
-  "education": "B.Tech CSE, Specialization in AI/ML, Bennett University — 2022-2026 Batch",
+  "education": "B.Tech CSE, Specialization in AI/ML, Bennett University — 2022-2026",
   "major_stack": ["Spring Boot", "FastAPI", "Next.js", "React.js"],
   "also_works_with": ["DevOps", "TypeScript", "Express.js", "Terraform", "Flask", "ML libraries"],
   "reach_me": "anshsharma712.as@gmail.com"
@@ -26,34 +26,34 @@
 
 <table>
   <tr>
-    <td>🚀 Role</td>
+    <td> Role</td>
     <td>AI Engineer — 2+ years building full-stack & AI-powered products</td>
   </tr>
   <tr>
-    <td>🎓 Qualification</td>
-    <td>B.Tech CSE, Specialization in AI/ML — Bennett University, 2022-2026 Batch</td>
+    <td> Qualification</td>
+    <td>B.Tech CSE, Specialization in AI/ML — Bennett University, 2022-2026</td>
   </tr>
   <tr>
-    <td>🛠️ Major Stack</td>
+    <td> Major Stack</td>
     <td>Spring Boot, FastAPI, Next.js, React.js</td>
   </tr>
   <tr>
-    <td>🧰 Also Working With</td>
+    <td> Also Working With</td>
     <td>DevOps, TypeScript, Express.js, Terraform, Flask, ML libraries</td>
   </tr>
   <tr>
-    <td>💬 Ask me about</td>
+    <td> Ask me about</td>
     <td>Full-Stack Dev, AI/ML, DevOps, or anything tech!</td>
   </tr>
   <tr>
-    <td>📫 Reach me</td>
+    <td> Reach me</td>
     <td><a href="mailto:anshsharma712.as@gmail.com">anshsharma712.as@gmail.com</a></td>
   </tr>
 </table>
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 Products
+##  Products
 
 <div align="center">
 
@@ -77,14 +77,14 @@
 
 </div>
 
-| Product | Logo | Link |
+| Product |  | Link |
 |---|---|---|
-| 🅰️ Askly | <img src="https://askly.co.in/logo.png" height="28"/> | [askly.co.in](https://askly.co.in) |
-| 🚀 RankRocket | <img src="https://www.rankrocket.co.in/logo.png" height="28"/> | [rankrocket.co.in](https://rankrocket.co.in) |
+|  Askly | <img src="https://askly.co.in/logo.png" height="28"/> | [askly.co.in](https://askly.co.in) |
+|  RankRocket | <img src="https://www.rankrocket.co.in/logo.png" height="28"/> | [rankrocket.co.in](https://rankrocket.co.in) |
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Major Stack**
 
@@ -143,15 +143,32 @@
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Stats
+
+
+<br/>
+
+<sub>
+Self-generated via GitHub Actions and committed to this repository.
+</sub>
+
+
+<!-- Contribution Streak -->
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Ansh's GitHub metrics" width="100%"/>
+
+  <img
+    src="https://streak-stats.demolab.com?user=ansharma-as&theme=github-dark&hide_border=true"
+    width="70%"
+    alt="Ansh Sharma GitHub Streak"
+  />
+
 </div>
+
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
